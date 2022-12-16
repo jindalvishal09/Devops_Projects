@@ -2,4 +2,12 @@
 
 # Multi Tier Web Application Stack Setup Locally
 
-### ⚡ _Fun fact on DevOps?_
+### ⚡ PreRequisites Installed:
+  * Oracle VM VirtualBox Manager
+  * Vagrant
+  * Vagrant plugins
+  * Git
+  * IDE (SublimeText, VSCode, etc)
+  
+  
+### ⚡ VM Setup
